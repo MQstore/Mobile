@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/MQstore/Mobile/blob/main/cdn/mobile/logos/mt5.png</string>
+					<string>https://raw.githubusercontent.com/MQstore/Mobile/main/cdn/mobile/logos/mt5.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/MQstore/Mobile/blob/main/cdn/mobile/logos/mt5.png</string>
+					<string>https://raw.githubusercontent.com/MQstore/Mobile/main/cdn/mobile/logos/mt5.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
